@@ -20,7 +20,7 @@
     "xlsjs": "~0.7.6",
     "harb": "~0.1.1",
     "concat-stream":"",
-    "commander":""
+    "commander":"^5.1.0"
   },
   "devDependencies": {
     "mocha":""
